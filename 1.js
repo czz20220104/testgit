@@ -12,3 +12,6 @@ const store ={
     ]
     }
 }
+e
+d
+f
